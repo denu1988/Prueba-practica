@@ -20,7 +20,7 @@ public class PruebaPractica {
         /*Realizamos las operaciones.
          * Tambien lo podemos guardar el resultado en variables. */
  
-        System.out.println("El resultado de la resta es "+(num1+num2))
+        System.out.println("El resultado de la suma es "+(num1+num2));
  
         System.out.println("El resultado de la resta es "+(num1-num2));
  
