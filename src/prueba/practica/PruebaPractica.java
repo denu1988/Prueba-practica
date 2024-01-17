@@ -24,7 +24,7 @@ public class PruebaPractica {
  
         System.out.println("El resultado de la resta es "+(num1-num2));
  
-        System.out.println("El resultado de la multiplicaci&oacute; es "+(num1/num2));
+        System.out.println("El resultado de la multiplicaci&oacute; es "+(num1*num2));
  
         System.out.println("El resultado de la división es "+(num1/num2));
         // TODO code application logic here
